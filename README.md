@@ -7,7 +7,8 @@ The 4 CSV data tables are the output of the SQL queries, where I clean the table
 
 Once the cleaned data tables have been exported as CSVs, I import the 4 CSVs and the Excel worksheet into PowerBI, where I link the tables together in the "Model" side tab:
 
-portfolio_1-image-data_model
+<img width="750" height="430" alt="image" src="https://github.com/user-attachments/assets/2207b323-e9c4-4646-8086-70653863040c" />
+
 
 I then further process the data in Power Query ("Transform data" on the Home tab), renaming columns, changing columns' data type etc. and bring the columns into a format suitable for visualisation.
 
@@ -15,15 +16,18 @@ Finally, I visualise the data as an interactive 3-page dashboard in PowerBI. I a
 
 Page 1 - AdventureWorks Sales Overview
 
-portfolio_1-image-adventure_works_1
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9cfb8f47-b8a3-45ee-94bd-17e10f213117" />
+
 
 Page 2 - Sales by Customer
 
-portfolio_1-image-adventure_works_2
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5779023-4ff6-4028-b657-6da67d4606da" />
+
 
 Page 3 - Sales by Product
 
-portfolio_1-image-adventure_works_3
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4f8cb55-1997-4e6d-b5ea-dbb93515f6a5" />
+
 
 Project Files
 
