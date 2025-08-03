@@ -21,7 +21,7 @@ Page 1 - AdventureWorks Sales Overview
 
 Page 2 - Sales by Customer
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e5779023-4ff6-4028-b657-6da67d4606da" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/692ea8ad-1282-4d3f-8a4a-2b19a26fd5cc" />
 
 
 Page 3 - Sales by Product
